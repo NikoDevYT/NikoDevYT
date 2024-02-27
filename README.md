@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Niko!
+- 👀 I’m interested in Unreal Engine, Python and Java
+- 🌱 I’m currently learning Python, Java
+- 💞️ I’m looking to collaborate on anything Unreal Engine or Minecraft related
+- 😄 Pronouns: she/her/they/them
+- ⚡ Fun fact: I have 2 cats :)
